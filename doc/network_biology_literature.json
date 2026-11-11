@@ -1,0 +1,512 @@
+{
+    "Classic Foundations & Network Topology": [
+        {
+            "id": 1,
+            "title": "Network biology: understanding the cell's functional organization",
+            "url": "https://doi.org/10.1038/nrg1272"
+        },
+        {
+            "id": 2,
+            "title": "Lethality and centrality in protein networks",
+            "url": "https://doi.org/10.1038/35075138"
+        },
+        {
+            "id": 3,
+            "title": "Scale-free networks in cell biology",
+            "url": "https://doi.org/10.1242/jcs.02714"
+        },
+        {
+            "id": 4,
+            "title": "From molecular to modular cell biology",
+            "url": "https://doi.org/10.1038/35011540"
+        },
+        {
+            "id": 5,
+            "title": "The large-scale organization of metabolic networks",
+            "url": "https://doi.org/10.1038/35036525"
+        },
+        {
+            "id": 6,
+            "title": "Collective dynamics of 'small-world' networks",
+            "url": "https://doi.org/10.1038/30918"
+        },
+        {
+            "id": 7,
+            "title": "Emergence of scaling in random networks",
+            "url": "https://doi.org/10.1126/science.286.5439.509"
+        },
+        {
+            "id": 8,
+            "title": "Statistical mechanics of complex networks",
+            "url": "https://doi.org/10.1103/RevModPhys.74.47"
+        },
+        {
+            "id": 9,
+            "title": "Exploring complex networks",
+            "url": "https://doi.org/10.1038/35065725"
+        },
+        {
+            "id": 10,
+            "title": "Graph theory and networks in biology",
+            "url": "https://doi.org/10.1049/sb.2006.0004"
+        },
+        {
+            "id": 11,
+            "title": "Structural robustness of biological networks",
+            "url": "https://doi.org/10.1016/j.jtbi.2005.01.002"
+        },
+        {
+            "id": 12,
+            "title": "Degree distributions of biological networks",
+            "url": "https://doi.org/10.1093/bioinformatics/btg102"
+        },
+        {
+            "id": 13,
+            "title": "Biological networks: The structure of cell interactomes",
+            "url": "https://doi.org/10.1016/j.cell.2004.09.012"
+        },
+        {
+            "id": 14,
+            "title": "Centrality metrics in biological networks: A survey",
+            "url": "https://doi.org/10.1186/1752-0509-5-12"
+        },
+        {
+            "id": 15,
+            "title": "Scale-free architectures in transcriptional regulation networks",
+            "url": "https://doi.org/10.1016/S0959-437X(02)00356-X"
+        },
+        {
+            "id": 16,
+            "title": "The structural architecture of protein-protein interaction networks",
+            "url": "https://doi.org/10.1016/j.jmb.2004.08.064"
+        },
+        {
+            "id": 17,
+            "title": "Network analysis of metabolic topologies: Scales and constraints",
+            "url": "https://doi.org/10.1016/j.biosystems.2003.09.004"
+        },
+        {
+            "id": 18,
+            "title": "Error and attack tolerance of complex networks",
+            "url": "https://doi.org/10.1038/35019019"
+        },
+        {
+            "id": 19,
+            "title": "Topological properties of metabolic networks",
+            "url": "https://doi.org/10.1093/bioinformatics/19.2.185"
+        },
+        {
+            "id": 20,
+            "title": "Highly optimized tolerance (HOT) in biological architectures",
+            "url": "https://doi.org/10.1103/PhysRevE.62.1130"
+        }
+    ],
+    "Network Motifs, Modules, & Community Detection": [
+        {
+            "id": 21,
+            "title": "Network motifs: simple building blocks of complex networks",
+            "url": "https://doi.org/10.1126/science.1078368"
+        },
+        {
+            "id": 22,
+            "title": "Hierarchical organization of modularity in metabolic networks",
+            "url": "https://doi.org/10.1126/science.1073374"
+        },
+        {
+            "id": 23,
+            "title": "Network motifs in the transcriptional regulation network of Escherichia coli",
+            "url": "https://doi.org/10.1038/ng881"
+        },
+        {
+            "id": 24,
+            "title": "Community structure in social and biological networks",
+            "url": "https://doi.org/10.1073/pnas.122653799"
+        },
+        {
+            "id": 25,
+            "title": "Uncovering the overlapping community structure of complex networks in nature and society",
+            "url": "https://doi.org/10.1038/nature03607"
+        },
+        {
+            "id": 26,
+            "title": "An automated method for finding molecular complexes in large protein interaction networks",
+            "url": "https://doi.org/10.1186/1471-2105-4-2"
+        },
+        {
+            "id": 27,
+            "title": "Detecting overlapping protein complexes in protein-protein interaction networks",
+            "url": "https://doi.org/10.1038/nmeth.1938"
+        },
+        {
+            "id": 28,
+            "title": "Functional cartography of complex metabolic networks",
+            "url": "https://doi.org/10.1038/nature03288"
+        },
+        {
+            "id": 29,
+            "title": "Finding and evaluating community structure in networks",
+            "url": "https://doi.org/10.1103/PhysRevE.69.026113"
+        },
+        {
+            "id": 30,
+            "title": "Modularity and community structure in networks",
+            "url": "https://doi.org/10.1073/pnas.0601602103"
+        },
+        {
+            "id": 31,
+            "title": "Superfamilies of evolved and designed networks",
+            "url": "https://doi.org/10.1126/science.1093850"
+        },
+        {
+            "id": 32,
+            "title": "Structure and function of transcription networks",
+            "url": "https://doi.org/10.1016/j.gde.2004.10.003"
+        },
+        {
+            "id": 33,
+            "title": "Algorithmic identification of feed-forward loops in gene networks",
+            "url": "https://doi.org/10.1093/bioinformatics/btg1055"
+        },
+        {
+            "id": 34,
+            "title": "Clustering methods for protein interaction networks: An algorithmic view",
+            "url": "https://doi.org/10.1016/j.jbi.2005.11.004"
+        },
+        {
+            "id": 35,
+            "title": "Identifying functional modules in interaction networks through edge betweenness",
+            "url": "https://doi.org/10.1186/gb-2004-5-4-r24"
+        },
+        {
+            "id": 36,
+            "title": "Graph theoretical analysis of regulatory motifs in cellular systems",
+            "url": "https://doi.org/10.1186/1752-0509-1-21"
+        },
+        {
+            "id": 37,
+            "title": "The Clique Percolation Method for biological network partition",
+            "url": "https://doi.org/10.1016/j.physa.2006.04.012"
+        },
+        {
+            "id": 38,
+            "title": "Extracting topological features and modules from dense interactomes",
+            "url": "https://doi.org/10.1093/nar/gki024"
+        },
+        {
+            "id": 39,
+            "title": "A comparative study of community detection algorithms in molecular biology",
+            "url": "https://doi.org/10.1186/1752-0509-6-44"
+        },
+        {
+            "id": 40,
+            "title": "Cohesive subgroups in protein-protein interaction graphs: Algorithms and definitions",
+            "url": "https://doi.org/10.1109/TCBB.2011.12"
+        }
+    ],
+    "Network Medicine, Disease Interactomes, & Epidemiology": [
+        {
+            "id": 41,
+            "title": "The human disease network",
+            "url": "https://doi.org/10.1073/pnas.0701361104"
+        },
+        {
+            "id": 42,
+            "title": "Uncovering disease-disease relationships through the incomplete interactome",
+            "url": "https://doi.org/10.1126/science.1257601"
+        },
+        {
+            "id": 43,
+            "title": "Associating genes and human diseases via network propagation",
+            "url": "https://doi.org/10.1371/journal.pcbi.1000641"
+        },
+        {
+            "id": 44,
+            "title": "Walking the interactome for prioritization of candidate disease genes",
+            "url": "https://doi.org/10.1016/j.ajhg.2008.02.013"
+        },
+        {
+            "id": 45,
+            "title": "Network medicine: a network-based approach to human disease",
+            "url": "https://doi.org/10.1038/nrg2918"
+        },
+        {
+            "id": 46,
+            "title": "Network-based prediction of drug-target interactions",
+            "url": "https://doi.org/10.1093/bioinformatics/btn290"
+        },
+        {
+            "id": 47,
+            "title": "Epidemic spreading in scale-free networks",
+            "url": "https://doi.org/10.1103/PhysRevLett.86.3200"
+        },
+        {
+            "id": 48,
+            "title": "Networks and epidemic models",
+            "url": "https://doi.org/10.1098/rsif.2005.0051"
+        },
+        {
+            "id": 49,
+            "title": "The role of the worldwide air transportation network in the predictability of disease spreading",
+            "url": "https://doi.org/10.1073/pnas.0510525103"
+        },
+        {
+            "id": 50,
+            "title": "Network theory and SARS: predicting outbreak outcomes",
+            "url": "https://doi.org/10.1016/j.jtbi.2004.08.025"
+        },
+        {
+            "id": 51,
+            "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+            "url": "https://doi.org/10.7554/eLife.26726"
+        },
+        {
+            "id": 52,
+            "title": "Tripartite network-based inference for drug repositioning",
+            "url": "https://doi.org/10.1016/j.jbi.2017.05.009"
+        },
+        {
+            "id": 53,
+            "title": "Identification of disease treatment mechanisms through multi-scale network modeling",
+            "url": "https://doi.org/10.1038/s41467-021-21770-8"
+        },
+        {
+            "id": 54,
+            "title": "Network pharmacology: the next paradigm in drug discovery",
+            "url": "https://doi.org/10.1038/nch1320"
+        },
+        {
+            "id": 55,
+            "title": "Predicting drug side-effects by chemical, biological, and network features",
+            "url": "https://doi.org/10.1186/1471-2105-11-S1-S4"
+        },
+        {
+            "id": 56,
+            "title": "Disease module identification through multi-network optimization",
+            "url": "https://doi.org/10.1038/nmeth.4077"
+        },
+        {
+            "id": 57,
+            "title": "Graph-based algorithms for parsing pathogen transmission trees",
+            "url": "https://doi.org/10.1371/journal.pcbi.1003457"
+        },
+        {
+            "id": 58,
+            "title": "Network epidemiology: Dynamic contact structures and disease control",
+            "url": "https://doi.org/10.1016/j.jtbi.2009.08.012"
+        },
+        {
+            "id": 59,
+            "title": "Prioritizing orphan disease genes through global network flows",
+            "url": "https://doi.org/10.1093/bioinformatics/bts233"
+        },
+        {
+            "id": 60,
+            "title": "An interactome-based framework for targeted therapeutics in oncology",
+            "url": "https://doi.org/10.1038/nrc.2016.140"
+        }
+    ],
+    "Dynamic, Spatial, & Higher-Order Topologies (Single-Cell, Chromatin, Multilayer)": [
+        {
+            "id": 61,
+            "title": "Mathematical formulation of multilayer networks",
+            "url": "https://doi.org/10.1103/PhysRevX.3.041022"
+        },
+        {
+            "id": 62,
+            "title": "Hypergraphs and cellular networks",
+            "url": "https://doi.org/10.1371/journal.pcbi.1000385"
+        },
+        {
+            "id": 63,
+            "title": "Multilayer networks in biology",
+            "url": "https://doi.org/10.1093/bib/bbz150"
+        },
+        {
+            "id": 64,
+            "title": "Networks beyond pairwise interactions: Structure and dynamics",
+            "url": "https://doi.org/10.1016/j.physrep.2020.05.004"
+        },
+        {
+            "id": 65,
+            "title": "SCENIC: single-cell regulatory network inference and clustering",
+            "url": "https://doi.org/10.1038/nmeth.4463"
+        },
+        {
+            "id": 66,
+            "title": "Single-cell network synthesis and analysis",
+            "url": "https://doi.org/10.1186/s13059-019-1658-y"
+        },
+        {
+            "id": 67,
+            "title": "Cell-specific network constructs for characterizing single-cell heterogeneity",
+            "url": "https://doi.org/10.1093/bioinformatics/btaa172"
+        },
+        {
+            "id": 68,
+            "title": "The dynamics and regulators of cell fate decisions are revealed by single-cell co-expression",
+            "url": "https://doi.org/10.1038/nbt.2859"
+        },
+        {
+            "id": 69,
+            "title": "Comprehensive mapping of long-range interactions reveals folding principles of the human genome",
+            "url": "https://doi.org/10.1126/science.1181008"
+        },
+        {
+            "id": 70,
+            "title": "Capturing chromosome conformation",
+            "url": "https://doi.org/10.1126/science.1067799"
+        },
+        {
+            "id": 71,
+            "title": "Differential network biology",
+            "url": "https://doi.org/10.1038/msb.2012.33"
+        },
+        {
+            "id": 72,
+            "title": "Global behavior of a topological network: context-dependent interactomes",
+            "url": "https://doi.org/10.1038/nature03013"
+        },
+        {
+            "id": 73,
+            "title": "Giotto: a toolbox for integrative analysis and visualization of spatial expression data",
+            "url": "https://doi.org/10.1186/s13059-021-02286-2"
+        },
+        {
+            "id": 74,
+            "title": "Inferring spatial and signaling relationships from single-cell transcriptomics data",
+            "url": "https://doi.org/10.1038/s41467-020-19450-x"
+        },
+        {
+            "id": 75,
+            "title": "SpatialDE: identification of spatially variable genes",
+            "url": "https://doi.org/10.1038/nmeth.4636"
+        },
+        {
+            "id": 76,
+            "title": "Spatial heterogeneity in the tumor microenvironment using Delaunay graphs",
+            "url": "https://doi.org/10.1101/cshperspect.a026583"
+        },
+        {
+            "id": 77,
+            "title": "Fitting geometric graphs to protein-protein interaction networks",
+            "url": "https://doi.org/10.1093/bioinformatics/btn070"
+        },
+        {
+            "id": 78,
+            "title": "Modeling interactome networks with geometric random graphs",
+            "url": "https://doi.org/10.1093/bioinformatics/bth224"
+        },
+        {
+            "id": 79,
+            "title": "What is flux balance analysis?",
+            "url": "https://doi.org/10.1038/nbt.1614"
+        },
+        {
+            "id": 80,
+            "title": "Minimal cut sets in biochemical reaction networks",
+            "url": "https://doi.org/10.1093/bioinformatics/btg1113"
+        }
+    ],
+    "Graph Representation Learning, Causal Inference, & Integration": [
+        {
+            "id": 81,
+            "title": "node2vec: Scalable feature learning for networks",
+            "url": "https://doi.org/10.1145/2939672.2939754"
+        },
+        {
+            "id": 82,
+            "title": "Inductive representation learning on large graphs",
+            "url": "https://doi.org/10.5555/3294771.3294869"
+        },
+        {
+            "id": 83,
+            "title": "Modeling polypharmacy side effects with graph convolutional networks",
+            "url": "https://doi.org/10.1093/bioinformatics/bty294"
+        },
+        {
+            "id": 84,
+            "title": "Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning",
+            "url": "https://doi.org/10.1038/s41592-019-0666-0"
+        },
+        {
+            "id": 85,
+            "title": "Similarity network fusion for aggregating multi-omics data on a genomic scale",
+            "url": "https://doi.org/10.1038/nmeth.2810"
+        },
+        {
+            "id": 86,
+            "title": "Bridging high-throughput genetic and transcriptional data with prize-collecting Steiner trees",
+            "url": "https://doi.org/10.1073/pnas.0900161106"
+        },
+        {
+            "id": 87,
+            "title": "Using Bayesian networks to analyze expression data",
+            "url": "https://doi.org/10.1089/106652700750050961"
+        },
+        {
+            "id": 88,
+            "title": "Causal protein-signaling networks derived from multiparameter single-cell data",
+            "url": "https://doi.org/10.1126/science.1105809"
+        },
+        {
+            "id": 89,
+            "title": "ARACNE: an algorithm for the reconstruction of gene regulatory networks",
+            "url": "https://doi.org/10.1186/1471-2105-7-S1-S7"
+        },
+        {
+            "id": 90,
+            "title": "Large-scale mapping and validation of Escherichia coli transcriptional regulation using CLR",
+            "url": "https://doi.org/10.1371/journal.pbio.0050008"
+        },
+        {
+            "id": 91,
+            "title": "Controllability of complex networks",
+            "url": "https://doi.org/10.1038/nature10011"
+        },
+        {
+            "id": 92,
+            "title": "Topology based data analysis identifies a unique mutational subgroup of breast cancers",
+            "url": "https://doi.org/10.1073/pnas.1102826108"
+        },
+        {
+            "id": 93,
+            "title": "Topology of viral evolution",
+            "url": "https://doi.org/10.1073/pnas.1313584110"
+        },
+        {
+            "id": 94,
+            "title": "Network-based prediction of protein interactions using L3 path configurations",
+            "url": "https://doi.org/10.1038/s41467-019-09149-2"
+        },
+        {
+            "id": 95,
+            "title": "A reference map of the human protein-protein interactome network",
+            "url": "https://doi.org/10.1038/s41586-020-2188-x"
+        },
+        {
+            "id": 96,
+            "title": "Modeling cellular machinery through biological network comparison",
+            "url": "https://doi.org/10.1038/nbt1203"
+        },
+        {
+            "id": 97,
+            "title": "Topological network alignment uncovers biological function and corevolution",
+            "url": "https://doi.org/10.1098/rsif.2010.0063"
+        },
+        {
+            "id": 98,
+            "title": "Highly accurate protein structure prediction with AlphaFold",
+            "url": "https://doi.org/10.1038/s41586-021-03819-2"
+        },
+        {
+            "id": 99,
+            "title": "LINE: Large-scale information network embedding",
+            "url": "https://doi.org/10.1145/2736277.2741093"
+        },
+        {
+            "id": 100,
+            "title": "GraRep: Learning graph representations with global structural information",
+            "url": "https://doi.org/10.1145/2806416.2806512"
+        }
+    ]
+}
